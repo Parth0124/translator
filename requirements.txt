@@ -13,3 +13,6 @@ langchain_chroma
 langchain-openai
 streamlit
 langchain_groq
+fastapi
+uvicorn
+langserve
